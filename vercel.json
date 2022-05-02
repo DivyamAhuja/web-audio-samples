@@ -8,9 +8,6 @@
             }, {
                 "key": "Cross-Origin-Opener-Policy",
                 "value": "same-origin"
-            }, {
-                "key" : "Cache-Control",
-                "value" : "max-age=0"
             }
         ]
     }]
